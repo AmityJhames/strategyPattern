@@ -1,4 +1,4 @@
-# strategyPattern
+# Strategy Pattern
 ## Problem scenario:
 
 ### Suppose we have three types of characters in a GameApp:
@@ -46,7 +46,7 @@
         } else if (type.equals("Archer")) {
             System.out.println("Using a shield to defend!"");
         }
-    }
+      }
     }
     
 ### UML Diagram
